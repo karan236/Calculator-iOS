@@ -1,5 +1,5 @@
 # Calculator-iOS
-This is a calculator app with few features and validations included. Details of all the features and validations are mentioned below :-
+This is a calculator app with additional features and validations included. Details of all the features and validations are mentioned below :-
 
 Features:-
 1) Feature of history has been provided to store the previous calculations.
