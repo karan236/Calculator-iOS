@@ -14,7 +14,7 @@ Validations:-
 4) Division by 0.
 
 Concepts used:-
-1) Auto-Layout inlcuding Multiplier
+1) Auto-Layout inlcuding Multiplier (StoryBoard)
 2) Segues
 3) Container View
 4) Property List
